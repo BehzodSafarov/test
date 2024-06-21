@@ -1,6 +1,11 @@
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.exe
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\publish\web.config
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\appsettings.Development.json
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\publish\test.deps.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\publish\test.runtimeconfig.json
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.dll
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.deps.json
 C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.runtimeconfig.json

@@ -32,3 +32,8 @@ C:\Users\Acer\Desktop\robot\test\obj\Release\net8.0\refint\test.dll
 C:\Users\Acer\Desktop\robot\test\obj\Release\net8.0\test.pdb
 C:\Users\Acer\Desktop\robot\test\obj\Release\net8.0\test.genruntimeconfig.cache
 C:\Users\Acer\Desktop\robot\test\obj\Release\net8.0\ref\test.dll
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\web.config
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.deps.json
+C:\Users\Acer\Desktop\robot\test\bin\Release\net8.0\publish\test.runtimeconfig.json
