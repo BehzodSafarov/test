@@ -36,7 +36,7 @@ app.MapGet("/weatherforecast", () =>
 .WithName("GetWeatherForecast")
 .WithOpenApi();
 
-app.Run();
+app.Run("http://185.217.131.215:80");
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
